@@ -1,4 +1,4 @@
-# TextNormalizer
+# TextNormalizer (old project)
 
 ![FullNormalizerWPF](https://user-images.githubusercontent.com/63106764/223407394-d3563984-8fdd-4f1d-a97a-3ac0284d43b8.jpg)
 
